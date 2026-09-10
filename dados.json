@@ -1,0 +1,57 @@
+
+[
+  {
+    "id": "1",
+    "titulo": "Interestelar",
+    "categoria": "filme",
+    "plataforma": "Max",
+    "nota": "9.5",
+    "status": "Assistido",
+    "capa": "https://www.amazon.com.br/Interstellar-Christopher-Nolan/dp/B00QUY6MZM"
+  },
+  {
+    "id": "2",
+    "titulo": "Homem-Aranha: No Aranhaverso",
+    "categoria": "filme",
+    "plataforma": "Disney+",
+    "nota": "9.0",
+    "status": "Assistido",
+    "capa": "https://www.rottentomatoes.com/m/spider_man_into_the_spider_verse"
+  },
+  {
+    "id": "3",
+    "titulo": "Batman",
+    "categoria": "filme",
+    "plataforma": "Max",
+    "nota": "8.5",
+    "status": "Quero Assistir",
+    "capa": "https://www.imdb.com/pt/title/tt1877830/"
+  },
+  {
+    "id": "4",
+    "titulo": "Stranger Things",
+    "categoria": "serie",
+    "plataforma": "Netflix",
+    "nota": "4.5",
+    "status": "Assistido",
+    "capa": "https://pt.wikipedia.org/wiki/Stranger_Things"
+  },
+  {
+    "id": "5",
+    "titulo": "The Last of Us",
+    "categoria": "serie",
+    "plataforma": "Max",
+    "nota": "9.2",
+    "status": "Assistindo",
+    "capa": "https://www.imdb.com/pt/title/tt3581920/"
+  },
+  {
+    "id": "6",
+    "titulo": "Ruptura",
+    "categoria": "serie",
+    "plataforma": "Apple TV+",
+    "nota": "9.0",
+    "status": "Quero Assistir",
+    "capa": "https://www.instagram.com/p/DE7X4dTuN7Q/"
+  }
+]
